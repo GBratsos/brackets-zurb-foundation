@@ -7,7 +7,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic page 
 2. Download straight from GitHub using [https://github.com/mirorauhala/brackets-bootstrap-skeleton/archive/master.zip](https://github.com/mirorauhala/brackets-bootstrap-skeleton/archive/master.zip).
 
 ## Updates ##
-* 1.0.0, 6/11/2014 - Initial release, Added Zurb Foundation 5.4.7. All CSS and Javascript files are fetched from [CDN](http://cdnjs.com/libraries/foundation/).
+* 1.0, 7/11/2014 - Initial release, Added Zurb Foundation 5.4.7. All CSS and Javascript files are fetched from [CDN](http://cdnjs.com/libraries/foundation/).
 
 ## Directions ##
 * File > New
