@@ -1,8 +1,8 @@
 {
-  "name": "gbratsos.zurbF-foundation",
+  "name": "gbratsos.zurb-foundation",
   "title": "Zurb Foundation 5 Basic template",
   "author": "George Bratsos",
-  "homepage": "https://github.com/GBratsos/brackets-zurbFoundation",
+  "homepage": "https://github.com/gbratsos/brackets-zurb-foundation",
   "version": "1.0.0",
   "description": "Adds Zurb Foundation 5 basic template to your page. Go to menu and select File -> New Zurb Foundation 5 Document.",
   "license": "MIT",
