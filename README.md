@@ -4,7 +4,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 
 ## Installation ##
 1. Open the Brackets Extension Manager and search for "Zurb Foundation".
-2. Download straight from GitHub using [https://github.com/GBratsos/brackets-zurbFoundation/archive/master.zip](https://github.com/GBratsos/brackets-zurbFoundation/archive/master.zip).
+2. Download straight from GitHub using [https://github.com/GBratsos/brackets-zurb-foundation/archive/master.zip](https://github.com/GBratsos/brackets-zurb-foundation/archive/master.zip).
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
