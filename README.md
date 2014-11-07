@@ -5,8 +5,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic page 
 ## Installation ##
 1. Open the Brackets Extension Manager and search for "Zurb Foundation".
 2. Download straight from GitHub using [https://github.com/GBratsos/brackets-zurbFoundation/archive/master.zip](https://github.com/GBratsos/brackets-zurbFoundation/archive/master.zip).
-3. Extract the zip file.
-4. Copy the entire file to Backets's extension folder and reload Brackets.
+3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
 * 1.0, 7/11/2014 - Initial release, Added Zurb Foundation 5.4.7. All CSS and Javascript files are fetched from [CDN](http://cdnjs.com/libraries/foundation/).
