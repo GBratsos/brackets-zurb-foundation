@@ -5,7 +5,7 @@ define(function (require, exports, module) {
   "use strict";
   /*
    * Simple extension that adds a "File > New Zurb Foundation 5 Document" menu item
-   * to insert a Zurb Foundation 5 Document HTML "skeleton" at cursor position
+   * to insert a Zurb Foundation 5 Document HTML at cursor position
    */
   var AppInit            = brackets.getModule("utils/AppInit"),
       CommandManager     = brackets.getModule("command/CommandManager"),
@@ -92,9 +92,9 @@ define(function (require, exports, module) {
    * @private
    * Insert the selected elements into the document
    */
-  function _inserthtmlSkelleton() {
+  function _inserthtmltemplate() {
 
-    var htmlSkelleton = "<!doctype html>\n<html class='no-js' lang='en'>\n\n<head>\nindent-size<meta charset='utf-8' />\n" +
+    var htmltemplate = "<!doctype html>\n<html class='no-js' lang='en'>\n\n<head>\nindent-size<meta charset='utf-8' />\n" +
         "indent-size<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n" +
         "indent-size<title>Foundation boots-version | Welcome</title>\nindent-size\n" +
         "indent-size<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/foundation/boots-version/css/foundation.min.css' />\n" +
@@ -272,11 +272,11 @@ define(function (require, exports, module) {
           // and replace them with the appropriate version number,
           // as well as for the `indent-size` keyword with indentation settings
           // Also replace all single quotes with double quotes
-          htmlSkelleton = htmlSkelleton.replace(/boots-version/g, version)
+          htmltemplate = htmltemplate.replace(/boots-version/g, version)
                                  .replace(/jq-version/g, JQUERY_VERSION)
                                  .replace(/indent-size/g, indentUnits)
                                  .replace(/'/g, "\"");
-          editor.document.replaceRange(htmlSkelleton, insertionPos);
+          editor.document.replaceRange(htmltemplate, insertionPos);
         });
       }
     });
@@ -288,8 +288,8 @@ define(function (require, exports, module) {
    * Load the extension after Brackets itself has finished loading.
    */
   AppInit.appReady(function () {
-    var EXTENSION_ID = "gbratsos.zurbFoundation";
-    CommandManager.register("New Zurb Foundation 5 Document", EXTENSION_ID, _inserthtmlSkelleton);
+    var EXTENSION_ID = "gbratsos.zurb-foundation";
+    CommandManager.register("New Zurb Foundation 5 Document", EXTENSION_ID, _inserthtmltemplate);
     var theMenu = Menus.getMenu(Menus.AppMenuBar.FILE_MENU);
     theMenu.addMenuItem(EXTENSION_ID);
   });
