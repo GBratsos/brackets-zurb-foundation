@@ -1,0 +1,21 @@
+{
+  "name": "gbratsos.zurbFoundation",
+  "title": "Zurb Foundation 5 Basic page",
+  "author": "George Bratsos",
+  "homepage": "https://github.com/gbratsos",
+  "version": "1.0.0",
+  "description": "Add Zurb Foundation 5 basic page to your page. Go to menu and select File -> New Zurb Foundation 5 Document.",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.37.0"
+  },
+  "keywords": [
+    "Foundation 5",
+    "Zurb",
+    "HTML5",
+    "CSS#",
+    "responsive",
+    "mobile-first",
+    "grid"
+  ]
+}
