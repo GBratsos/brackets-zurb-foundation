@@ -1,4 +1,4 @@
-# Brackets Zurb Foundation #
+# Brackets Zurb Foundation 5#
 
 A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic template to your page.
 
@@ -16,6 +16,10 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 
 This will create a Zurb Foundation 5 basic template, at cursor location.
 In order to use full Zurb Foundation's features download from [http://foundation.zurb.com/](http://foundation.zurb.com/).
+
+You can use Beautify [https://github.com/drewhamlett/brackets-beautify](https://github.com/drewhamlett/brackets-beautify) extension to indent your code properly.
+
+
 
 ## License ##
 This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauhala/brackets-bootstrap-skeleton) by [Miro Rauhala](https://github.com/mirorauhala).
