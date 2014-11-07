@@ -21,6 +21,8 @@ In order to use full Zurb Foundation's features download from [http://foundation
 
 You can use [Beautify](https://github.com/drewhamlett/brackets-beautify) extension to indent your code properly.
 
+You can use [Brackets Extension Rating](https://github.com/dnbard/brackets-extension-rating) to see downloads, stars and other information about Brackets extensions.
+
 
 
 ## License ##
