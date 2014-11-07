@@ -2,6 +2,8 @@
 
 A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic template to your page.
 
+![Brackets Zurb Foundation 5](screenshot.png)
+
 ## Installation ##
 1. Open the Brackets Extension Manager and search for "Zurb Foundation".
 2. Download straight from GitHub using [https://github.com/gbratsos/brackets-zurb-foundation/archive/master.zip](https://github.com/gbratsos/brackets-zurb-foundation/archive/master.zip).
