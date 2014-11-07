@@ -1,6 +1,6 @@
 # Brackets Zurb Foundation #
 
-A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic page to your page.
+A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic template to your page.
 
 ## Installation ##
 1. Open the Brackets Extension Manager and search for "Zurb Foundation".
@@ -14,7 +14,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic page 
 * File > New
 * Then File > New Zurb Foundation 5 Document
 
-This will create a basic Zurb Foundation 5 page, at cursor location.
+This will create a Zurb Foundation 5 basic template, at cursor location.
 In order to use full Zurb Foundation's features download from [http://foundation.zurb.com/](http://foundation.zurb.com/).
 
 ## License ##
