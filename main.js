@@ -197,6 +197,7 @@ define(function (require, exports, module) {
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
+        "indent-sizeindent-sizeindent-sizeindent-size</div>"\n +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-size<div class='row'>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size<div class='large-12 columns'>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size<label>Select Box</label>\n" +
