@@ -197,7 +197,7 @@ define(function (require, exports, module) {
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
-        "indent-sizeindent-sizeindent-sizeindent-size</div>"\n +
+        "indent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-size<div class='row'>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size<div class='large-12 columns'>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size<label>Select Box</label>\n" +
@@ -231,7 +231,6 @@ define(function (require, exports, module) {
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size<textarea placeholder='small-12.columns'></textarea>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-sizeindent-sizeindent-size</div>\n" +
-        "indent-sizeindent-sizeindent-sizeindent-size</div>\n" +
         "indent-sizeindent-sizeindent-size</form>\n" +
         "indent-sizeindent-size</div>\n" +
         "indent-sizeindent-size<div class='large-4 medium-4 columns'>\n" +
