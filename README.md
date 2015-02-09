@@ -20,13 +20,27 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 This will create a Zurb Foundation 5 basic template, at cursor location.
 In order to use full Zurb Foundation's features download from [http://foundation.zurb.com/](http://foundation.zurb.com/).
 
-You can use [Beautify](https://github.com/drewhamlett/brackets-beautify) extension to indent your code properly.
-
-You can use [Brackets Extension Rating](https://github.com/dnbard/brackets-extension-rating) to see downloads, stars and other information about Brackets extensions.
-
-
-
 ## License ##
 This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauhala/brackets-bootstrap-skeleton) by [Miro Rauhala](https://github.com/mirorauhala).
 
 [MIT License](LICENSE)
+
+## Recommended Brackets Addons ##
+
+[Beautify](https://github.com/drewhamlett/brackets-beautify) extension to indent your code properly.
+
+[Brackets Extension Rating](https://github.com/dnbard/brackets-extension-rating) to see downloads, stars and other information about Brackets extensions.
+
+[Brackets File icons](https://github.com/drewbkoch/Brackets-File-Icons) in Brackets' file tree.
+
+[Brackets ColorHints](https://github.com/konstantinkobs/brackets-colorHints) shows colors you used in your CSS file before as code hints.
+
+[Brackets Display Shortcuts](https://github.com/redmunds/brackets-display-shortcuts) display current shortcuts in a bottom panel that can be sorted and filtered.
+
+[Brackets Documents Toolbar](https://github.com/dnbard/brackets-documents-toolbar) adds toolbar with tabs of open documents on the top of the editor. 
+
+[Brackets Lorem Ipsum](https://github.com/lkcampbell/brackets-lorem-ipsum) generates Lorem Ipsum text automatically in any Brackets document.
+
+## Themes ##
+
+[Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
