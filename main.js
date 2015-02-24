@@ -98,7 +98,7 @@ define(function (require, exports, module) {
 			"indent-size<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n" +
 			"indent-size<title>Foundation boots-version | Welcome</title>\nindent-size\n" +
 			"indent-size<link rel='stylesheet' href='http://cdn.foundation5.zurb.com/foundation.css' />\n" +
-			"indent-size<script src='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>\n" +
+			"indent-size<script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>\n" +
 			"</head>\n\n<body>\n" +
 			"indent-size<div class='row'>\n" +
 			"indent-sizeindent-size<div class='large-12 columns'>\n" +
@@ -253,7 +253,7 @@ define(function (require, exports, module) {
 			"indent-sizeindent-sizeindent-size</div>\n" +
 			"indent-sizeindent-size</div>\n" +
 			"indent-size</div>\n\n" +
-			"indent-size <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>\n" +
+			"indent-size <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>\n" +
 			"indent-size<script src='http://cdn.foundation5.zurb.com/foundation.js'></script>\n" +
 			"indent-size<script>\n" +
 			"indent-sizeindent-size$(document).foundation();\n" +
