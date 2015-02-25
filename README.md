@@ -10,6 +10,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
+* 1.0.2, 25/2/2015 - Merged pull request with path updates for CDNs. Thanks to [@wgoolsby](https://github.com/wgoolsby)
 * 1.0.1, 9/11/2014 - Template fixes.
 * 1.0.0, 7/11/2014 - Initial release, Added Zurb Foundation 5.4.7. All CSS and Javascript files are fetched from [CDN](http://cdnjs.com/libraries/foundation/).
 
