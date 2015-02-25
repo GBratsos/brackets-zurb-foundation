@@ -66,7 +66,7 @@ define(function (require, exports, module) {
 	 */
 	function _getLatestZurbFoundation() {
 		// However, we define a fallback just in case...
-		var fallbackVersion = "5.4.6";
+		var fallbackVersion = "5.4.7";
 		var result = new $.Deferred();
 
 		// Perform an asynchronous request
