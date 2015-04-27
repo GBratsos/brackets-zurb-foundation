@@ -42,6 +42,8 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Brackets Lorem Ipsum](https://github.com/lkcampbell/brackets-lorem-ipsum) generates Lorem Ipsum text automatically in any Brackets document.
 
+[Interactive Linter](https://github.com/MiguelCastillo/Brackets-InteractiveLinter) for Brackets.
+
 ## Themes ##
 
 [Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
