@@ -44,6 +44,8 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Interactive Linter](https://github.com/MiguelCastillo/Brackets-InteractiveLinter) for Brackets.
 
+[Special HTML Characters](https://github.com/thaneuk/brackets-special-html-chars) for inline editing context menu will get an additional option to bring up a menu of common Special HTML characters to insert of the cursors position (e.g. Copyright, Trademark, Non-breaking space).
+
 ## Themes ##
 
 [Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
