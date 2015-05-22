@@ -48,6 +48,8 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Autoprefixer](https://github.com/mikaeljorhult/brackets-autoprefixer) parses CSS and add vendor prefixes automatically.
 
+[Popup menu](https://github.com/Denisov21/Popup-menu-extension) adds additional functionality to Brackets editor like: `cut`, `copy`, `paste`,  `comment line`, `comment block` and `save all`.
+
 ## Themes ##
 
 [Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
