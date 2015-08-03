@@ -50,6 +50,9 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Popup menu](https://github.com/Denisov21/Popup-menu-extension) adds additional functionality to Brackets editor like: `cut`, `copy`, `paste`,  `comment line`, `comment block` and `save all`.
 
+[wakatime](https://wakatime.com) tracks your hours spending on your projects.
+
+
 ## Themes ##
 
 [Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
