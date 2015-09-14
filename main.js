@@ -96,7 +96,11 @@ define(function (require, exports, module) {
 
 		var htmltemplate = "<!doctype html>\n<html class='no-js' lang='en'>\n\n<head>\nindent-size<meta charset='utf-8' />\n" +
 			"indent-size<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n" +
+			"indent-size<meta name="description" content="">\n" +
+			"indent-size<meta name="keywords" content="">\n" +
+			"indent-size<meta name="author" content="George Bratsos">\n" +
 			"indent-size<title>Foundation boots-version | Welcome</title>\nindent-size\n" +
+			"indent-size<link rel="icon" href="img/favicon.ico">\nindent-size\n" +
 			"indent-size<link rel='stylesheet' href='http://cdn.foundation5.zurb.com/foundation.css' />\n" +
 			"indent-size<script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>\n" +
 			"</head>\n\n<body>\n" +
