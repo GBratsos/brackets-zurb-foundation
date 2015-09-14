@@ -52,6 +52,7 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [wakatime](https://wakatime.com) tracks your hours spending on your projects.
 
+Emmet - emmet addon for Brackets.
 
 ## Themes ##
 
