@@ -10,6 +10,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
+* 1.1.0, 14/9/2015 - Updated codebase and changed menu to File again.
 * 1.0.4, 14/9/2015 - Updated jquery and changed menu to Edit.
 * 1.0.2, 25/2/2015 - Merged pull request with path updates for CDNs. Thanks to [@wgoolsby](https://github.com/wgoolsby)
 * 1.0.1, 9/11/2014 - Template fixes.
@@ -17,7 +18,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 
 ## Directions ##
 * File > New
-* Then Edit > New Zurb Foundation 5 Document
+* Then File > New Zurb Foundation 5 Document
 
 This will create a Zurb Foundation 5 basic template, at cursor location.
 In order to use full Zurb Foundation's features download from [http://foundation.zurb.com/](http://foundation.zurb.com/).
