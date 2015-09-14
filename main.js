@@ -264,37 +264,36 @@ define(function (require, exports, module) {
 			"indent-size</script>\n" +
 			"</body>\n\n</html>\n";
 
-		// Since fetching the lastest version is an async process,
-		// the rest of the actions need to be too
-		_getLatestZurbFoundation().then(function (version) {
-			var editor = EditorManager.getCurrentFullEditor();
-			if (editor) {
-				// Insert the skeleton at the current cursor position
-				var insertionPos = editor.getCursorPos();
-				editor.document.batchOperation(function () {
-					// Do a regex search for asset version keywords
-					// and replace them with the appropriate version number,
-					// as well as for the `indent-size` keyword with indentation settings
-					// Also replace all single quotes with double quotes
-					htmltemplate = htmltemplate.replace(/boots-version/g, version)
-						.replace(/jq-version/g, JQUERY_VERSION)
-						.replace(/indent-size/g, indentUnits)
-						.replace(/'/g, "\"");
-					editor.document.replaceRange(htmltemplate, insertionPos);
-				});
-			}
-		});
+	    // Since fetching the lastest version is an async process,
+    // the rest of the actions need to be too
+    _getLatestBootstrap().then(function (version) {
+      var editor = EditorManager.getCurrentFullEditor();
+      if (editor) {
+        // Insert the skeleton at the current cursor position
+        var insertionPos = editor.getCursorPos();
+        editor.document.batchOperation(function () {
+          // Do a regex search for asset version keywords
+          // and replace them with the appropriate version number,
+          // as well as for the `indent-size` keyword with indentation settings
+          // Also replace all single quotes with double quotes
+          htmlSkelly = htmlSkelly.replace(/{boots-version}/g, version)
+                                 .replace(/{jq-version}/g, JQUERY_VERSION)
+                                 .replace(/indent-size/g, indentUnits)
+                                 .replace(/'/g, "\"");
+          editor.document.replaceRange(htmlSkelly, insertionPos);
+        });
+      }
+    });
 	}
-
-
-	/**
-	 * @private
-	 * Load the extension after Brackets itself has finished loading.
-	 */
-	AppInit.appReady(function () {
-		var EXTENSION_ID = "gbratsos.zurb-foundation";
-		CommandManager.register("New Zurb Foundation 5 Document", EXTENSION_ID, _inserthtmltemplate);
-		var theMenu = Menus.getMenu(Menus.AppMenuBar.FILE_MENU);
-		theMenu.addMenuItem(EXTENSION_ID);
-	});
+ /**
+   * @private
+   * Load the extension after Brackets itself has finished loading.
+   */
+  AppInit.appReady(function () {
+    var EXTENSION_ID = "gbratsos.zurb-foundation";
+    CommandManager.register("New Zurb Foundation 5 Document", EXTENSION_ID, _inserthtmlSkelly);
+    var theMenu = Menus.getMenu(Menus.AppMenuBar.EDIT_MENU);
+    theMenu.addMenuItem(EXTENSION_ID);
+    _setIndentSize();
+  });
 });
