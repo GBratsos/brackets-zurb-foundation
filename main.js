@@ -301,7 +301,7 @@ define(function (require, exports, module) {
   AppInit.appReady(function () {
     var EXTENSION_ID = "gbratsos.zurb-foundation";
     CommandManager.register("New Zurb Foundation Document", EXTENSION_ID, _inserthtmltemplate);
-    var theMenu = Menus.getMenu(Menus.AppMenuBar.EDIT_MENU);
+    var theMenu = Menus.getMenu(Menus.AppMenuBar.FILE_MENU);
     theMenu.addMenuItem(EXTENSION_ID);
     _setIndentSize();
   });
