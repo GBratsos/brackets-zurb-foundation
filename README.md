@@ -48,6 +48,8 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Special HTML Characters](https://github.com/thaneuk/brackets-special-html-chars) for inline editing context menu will get an additional option to bring up a menu of common Special HTML characters to insert of the cursors position (e.g. Copyright, Trademark, Non-breaking space).
 
+[TODO](https://github.com/mikaeljorhult/brackets-todo) displays all TODO comments in current document or project.
+
 [Autoprefixer](https://github.com/mikaeljorhult/brackets-autoprefixer) parses CSS and add vendor prefixes automatically.
 
 [Popup menu](https://github.com/Denisov21/Popup-menu-extension) adds additional functionality to Brackets editor like: `cut`, `copy`, `paste`,  `comment line`, `comment block` and `save all`.
