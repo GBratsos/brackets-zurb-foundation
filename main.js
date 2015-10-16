@@ -4,7 +4,7 @@ define(function (require, exports, module) {
 	var docIndex = 1,
 	    commandId = "new-zurbfoundation-page",
 	    menuID = "zf.menuID",
-	    menuLabel = "New Zurb Foundation File",
+	    menuLabel = "New Zurb Foundation Document",
 		DocumentManager = brackets.getModule("document/DocumentManager"),
 		Commands = brackets.getModule("command/Commands"),
 		CommandManager = brackets.getModule("command/CommandManager"),
