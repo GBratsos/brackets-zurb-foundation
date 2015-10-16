@@ -10,6 +10,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
+* 1.2.0, 16/10/2015 - Updated menu link position and plugin architecture.
 * 1.1.0, 14/9/2015 - Updated codebase and changed menu to File again.
 * 1.0.4, 14/9/2015 - Updated jquery and changed menu to Edit.
 * 1.0.2, 25/2/2015 - Merged pull request with path updates for CDNs. Thanks to [@wgoolsby](https://github.com/wgoolsby)
