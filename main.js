@@ -300,7 +300,11 @@ define(function (require, exports, module) {
    */
   AppInit.appReady(function () {
     var EXTENSION_ID = "gbratsos.zurb-foundation";
-    CommandManager.register("New Zurb Foundation Document", EXTENSION_ID, _inserthtmltemplate);
+    CommandManager.register(menuLabel, menuID, newFileHandle);
+	menu = Menus.getMenu(Menus.AppMenuBar.FILE_MENU);
+	menu.addMenuItem(menuID, undefined, Menus.AFTER, Commands.FILE_NEW_UNTITLED);
+    KeyBindingManager.addBinding(menuID, "Ctrl-Alt-Z", "mac");
+	KeyBindingManager.addBinding(menuID, "Ctrl-Alt-Z", "win");
     var theMenu = Menus.getMenu(Menus.AppMenuBar.FILE_MENU);
     theMenu.addMenuItem(EXTENSION_ID);
     _setIndentSize();
