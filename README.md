@@ -39,8 +39,6 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Brackets ColorHints](https://github.com/konstantinkobs/brackets-colorHints) shows colors you used in your CSS file before as code hints.
 
-[Brackets Display Shortcuts](https://github.com/redmunds/brackets-display-shortcuts) display current shortcuts in a bottom panel that can be sorted and filtered.
-
 [Brackets Documents Toolbar](https://github.com/dnbard/brackets-documents-toolbar) adds toolbar with tabs of open documents on the top of the editor. 
 
 [Brackets Lorem Ipsum](https://github.com/lkcampbell/brackets-lorem-ipsum) generates Lorem Ipsum text automatically in any Brackets document.
