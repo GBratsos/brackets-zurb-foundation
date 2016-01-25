@@ -35,11 +35,9 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 
 [Brackets Extension Rating](https://github.com/dnbard/brackets-extension-rating) to see downloads, stars and other information about Brackets extensions.
 
-[Brackets File icons](https://github.com/drewbkoch/Brackets-File-Icons) in Brackets' file tree.
+[Tabs custom-working](https://github.com/DH3ALEJANDRO/custom-work-for-brackets) adds toolbar including buttons show/hide with tabs of active documents on the top of the editor.
 
 [Brackets ColorHints](https://github.com/konstantinkobs/brackets-colorHints) shows colors you used in your CSS file before as code hints.
-
-[Brackets Documents Toolbar](https://github.com/dnbard/brackets-documents-toolbar) adds toolbar with tabs of open documents on the top of the editor. 
 
 [Brackets Lorem Ipsum](https://github.com/lkcampbell/brackets-lorem-ipsum) generates Lorem Ipsum text automatically in any Brackets document.
 
