@@ -1,10 +1,10 @@
-# Brackets Zurb Foundation 5#
+# Brackets Zurb Foundation 6#
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic template to your page.
 
-![Brackets Zurb Foundation 5](image.png)
+![Brackets Zurb Foundation 6](image.png)
 
 ## Installation ##
 1. Open the Brackets Extension Manager and search for "Zurb Foundation".
@@ -12,6 +12,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
+* 1.2.1, 07/05/2016 - Updated Basic Template for Foundation 6 for Sites (CDN version 6.2.1).
 * 1.2.0, 16/10/2015 - Updated menu link position and plugin architecture.
 * 1.1.0, 14/9/2015 - Updated codebase and changed menu to File again.
 * 1.0.4, 14/9/2015 - Updated jquery and changed menu to Edit.
@@ -21,9 +22,9 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic templ
 
 ## Directions ##
 * File > New
-* Then File > New Zurb Foundation 5 Document
+* Then File > New Zurb Foundation 6 Document
 
-This will create a Zurb Foundation 5 basic template, at cursor location.
+This will create a Zurb Foundation 6 basic template, at cursor location.
 In order to use full Zurb Foundation's features download from [http://foundation.zurb.com/](http://foundation.zurb.com/).
 
 ## License ##
