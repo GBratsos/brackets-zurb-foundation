@@ -65,3 +65,5 @@ This extension is based on the [Bootstrap Skeleton](https://github.com/mirorauha
 [Tomorrow Night](https://github.com/Brackets-Themes/TomorrowNight) theme for Brackets.
 
 [OS X Style Flat & Dark](https://github.com/aydieneue/brackets-osx-flat-dark-theme) theme for Brackets.
+
+[Brackets Devicons](https://github.com/bvermeule/brackets-devicons) for Brackets.
