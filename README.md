@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A [Brackets](http://brackets.io/) extension to add Zurb Foundation 5 basic template to your page.
+A [Brackets](http://brackets.io/) extension to add Zurb Foundation 6 basic template to your page.
 
 ![Brackets Zurb Foundation 6](image.png)
 
