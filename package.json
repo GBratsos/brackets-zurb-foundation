@@ -3,7 +3,7 @@
   "title": "Zurb Foundation 6 Basic Template",
   "author": "George Bratsos",
   "homepage": "https://github.com/gbratsos/brackets-zurb-foundation",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Adds Zurb Foundation 6 basic template to your page. Go to menu and select File -> New Zurb Foundation 6 Document.",
   "license": "MIT",
   "engines": {

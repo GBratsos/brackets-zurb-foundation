@@ -12,6 +12,7 @@ A [Brackets](http://brackets.io/) extension to add Zurb Foundation 6 basic templ
 3. Extract the zip file. Copy the entire file to Backets's extension folder and reload Brackets.
 
 ## Updates ##
+* 1.2.3, 08/08/2017 - Updated Basic Template to 6.4.1
 * 1.2.2, 07/05/2016 - Updated Basic Template for Foundation 6 for Sites (CDN version 6.2.1). Thanks to [@badcat](https://github.com/badcat)
 * 1.2.0, 16/10/2015 - Updated menu link position and plugin architecture.
 * 1.1.0, 14/9/2015 - Updated codebase and changed menu to File again.
